@@ -1,3 +1,7 @@
+/**
+ * @author CodeHS
+ * @since 2019 or earlier
+ */
 import java.util.*;
 
 public class Randomizer{

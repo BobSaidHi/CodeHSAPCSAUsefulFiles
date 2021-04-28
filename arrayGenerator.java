@@ -1,4 +1,9 @@
-public class arrayGenerator
+/**
+  * @author BobSaidHi
+  * @since 2019
+  * @
+  */
+  public class arrayGenerator
 {
     public void main(String[] args)
     {
